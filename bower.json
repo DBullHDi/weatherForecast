@@ -1,0 +1,27 @@
+{
+  "name": "weather-forecast",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Catalin Chelariu"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
